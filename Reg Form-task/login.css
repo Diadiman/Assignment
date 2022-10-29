@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(206, 155, 92);
+}
+input{
+    width: 70%;
+    height: 70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.btn{
+    border-radius: 10px;
+    cursor: pointer;
+    color: blue;
+
+}
+p{
+    text-transform: uppercase;
+}
